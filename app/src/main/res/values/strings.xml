@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">USSDApp</string>
+    <string name="enter_ussd_code">Enter ussd code</string>
+    <string name="send_ussd">SEND USSD</string>
+    <string name="ok">OK</string>
+    <string name="failed_status">Failed, please try again later</string>
+    <string name="code_running">USSD code is running</string>
+</resources>
